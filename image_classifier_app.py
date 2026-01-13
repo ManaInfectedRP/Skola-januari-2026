@@ -13,7 +13,7 @@ from datetime import datetime
 # Konfigurera sidan
 st.set_page_config(
     page_title="Bildklassificering med AI",
-    page_icon="🖼️",
+    page_icon="",
     layout="wide"
 )
 
